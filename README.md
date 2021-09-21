@@ -13,20 +13,21 @@
 ![Shashank Dwivedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shanky-21&show_icons=true&theme=algolia)
 ---
  
-* 🔭 I’m currently doing Training Under SAG DRDO
 
-- 🌱 I’m currently learning NLP
+   * 🔭 I’m currently doing Training Under SAG DRDO
 
-- 👯 I'm looking to collaborate on Tensorflow, NLP, Computer Vision
+   - 🌱 I’m currently learning NLP
 
-- 📫 How to reach me: Ping me at any of above mentioned platforms
+   - 👯 I'm looking to collaborate on Tensorflow, NLP, Computer Vision
 
-- ⚡ Fun fact: I'm a keen learner
+   - 📫 How to reach me: Ping me at any of above mentioned platforms
+
+   - ⚡ Fun fact: I'm a keen learner
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanky-21&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanky-21&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-**Important Repository**
+### Important Repository
 
 💾 Hands on Machine Learning - [🔗](https://github.com/Shanky-21/Hands-on-machine-learning)
 
