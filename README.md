@@ -1,7 +1,6 @@
 ### Hi there, I'm Shashank Dwivedi 👋
 [![Website](https://img.shields.io/website?label=ShashankDwivedi&style=for-the-badge&url=http://codestackr.com)](https://www.linkedin.com/in/shashank-dwivedi-623a23172/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Shashank_16_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
----
 
 ## I'm a Machine Learning Enthusiast, Data Science learner, Medium Writer !! 
 
@@ -11,22 +10,29 @@
 
 
 
-
-
-
 ![Shashank Dwivedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shanky-21&show_icons=true&theme=algolia)
 ---
  
 * 🔭 I’m currently doing Training Under SAG DRDO
+
 - 🌱 I’m currently learning NLP
+
 - 👯 I'm looking to collaborate on Tensorflow, NLP, Computer Vision
+
 - 📫 How to reach me: Ping me at any of above mentioned platforms
+
 - ⚡ Fun fact: I'm a keen learner
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanky-21&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+**Important Repository**
+
+💾 Hands on Machine Learning - [🔗](https://github.com/Shanky-21/Hands-on-machine-learning)
+
 ---
 
-Thankyou For visiting My Profile !!
+***Thankyou For visiting My Profile !!***
 
 <!--
 **Shanky-21/Shanky-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
