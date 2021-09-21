@@ -1,5 +1,7 @@
 ### Hi there, I'm Shashank Dwivedi 👋
-=====================================
+[![Website](https://img.shields.io/website?label=ShashankDwivedi&style=for-the-badge&url=http://codestackr.com)](https://www.linkedin.com/in/shashank-dwivedi-623a23172/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Shashank_16_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+
 
 <!--
 **Shanky-21/Shanky-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
