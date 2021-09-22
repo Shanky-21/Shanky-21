@@ -2,7 +2,8 @@
 [![Website](https://img.shields.io/website?label=ShashankDwivedi&style=for-the-badge&url=http://codestackr.com)](https://www.linkedin.com/in/shashank-dwivedi-623a23172/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Shashank_16_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-### I'm a Machine Learning Enthusiast, Data Science learner, Medium Writer !! 
+I'm a Machine Learning Enthusiast, Data Science learner, Medium Writer 
+---
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-dwivedi-623a23172/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pycasm/)
