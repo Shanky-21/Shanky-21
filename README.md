@@ -30,9 +30,9 @@ I'm a **Software Engineer** at **SmartReach.io**, specializing in **React, TypeS
 - **Razorpay integration** for seamless payments.
 
 ### 📌 Open Source Contributions
-- **Total Pull Requests:** ![PR Count](https://img.shields.io/github/issues-pr/Shanky-21?style=for-the-badge)
-- **Total Commits:** ![Commit Count](https://img.shields.io/github/commit-activity/y/Shanky-21?style=for-the-badge)
-- **Total Repositories:** ![Repo Count](https://img.shields.io/github/repositories/Shanky-21?style=for-the-badge)
+- **Raised multiple pull requests** and contributed to open-source projects.
+- **Active in reviewing and optimizing code** in various repositories.
+- **Maintaining and enhancing** my own open-source projects.
 
 ### 📫 Contact
 - **Email:** [shashankdwivedi9648@gmail.com](mailto:shashankdwivedi9648@gmail.com)
