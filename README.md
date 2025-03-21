@@ -41,7 +41,6 @@ I'm a **Software Engineer** at **SmartReach.io**, specializing in **React, TypeS
 
 ---
 ### 📌 Featured Repositories
-💡 **Code Smart - Chrome Extension** [🔗](https://github.com/Shanky-21/Code-Smart)
 
 📊 **Data Visualization** [🔗](https://github.com/Shanky-21/Data_visualization)
 
