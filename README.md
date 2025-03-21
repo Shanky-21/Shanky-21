@@ -1,57 +1,47 @@
 ### Hi there, I'm Shashank Dwivedi 👋
-[![Website](https://img.shields.io/website?label=ShashankDwivedi&style=for-the-badge&url=http://codestackr.com)](https://www.linkedin.com/in/shashank-dwivedi-623a23172/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Shashank_16_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-I'm a Machine Learning Enthusiast, Data Science learner, Medium Writer 
+[![Website](https://img.shields.io/badge/Website-CodeSmart.in-blue?style=for-the-badge)](https://codesmart.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-dwivedi-623a23172/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Shashank_16_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FShanky-21&screen_name=Shashank_16_)
+
+I'm a passionate **Software Engineer** and the creator of **Code Smart**, a Chrome extension that enhances coding efficiency by providing hints, solutions, and analysis directly while you code. My expertise lies in:
+- **React & TypeScript**
+- **Chrome Extensions Development**
+- **Python & Flask**
+- **Machine Learning & NLP**
+- **PostgreSQL & Firebase**
+- **Webpack, Tailwind CSS**
+
 ---
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-dwivedi-623a23172/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pycasm/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shashankdwivedi6386)
-
-
 
 ![Shashank Dwivedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shanky-21&show_icons=true&theme=algolia)
----
- 
 
-   * 🔭 I’m currently doing Training Under SAG DRDO
+### 🚀 What I'm Working On
+- **Building and scaling Code Smart** - A browser extension for improving coding efficiency
+- **Developing a credit-based system for premium features in Code Smart**
+- **Optimizing Chrome extension performance and integrating new features**
+- **Scraping coding platforms like LeetCode, GFG, CodeChef for insights**
 
-   - 🌱 I’m currently learning NLP
+### 🌱 Learning & Interests
+- Advanced **React & TypeScript patterns**
+- Scaling **Chrome extensions** for thousands of users
+- **Performance optimizations** in Webpack & React
+- **AI-driven coding assistance** using NLP
 
-   - 👯 I'm looking to collaborate on Tensorflow, NLP, Computer Vision
-
-   - 📫 How to reach me: Ping me at any of above mentioned platforms
-
-   - ⚡ Fun fact: I'm a keen learner
-  
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanky-21&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
----
-### Important Repository
-
-💾 Hands on Machine Learning - [🔗](https://github.com/Shanky-21/Hands-on-machine-learning)
-
-### Do check - 
-
-💾 Data Visualization - [🔗](https://github.com/Shanky-21/Data_visualization)
-
+### 📫 How to Reach Me
+- **Email:** [shashankdwivedi6386@gmail.com](mailto:shashankdwivedi6386@gmail.com)
+- **LinkedIn:** [@shashank-dwivedi](https://www.linkedin.com/in/shashank-dwivedi-623a23172/)
+- **Twitter:** [@Shashank_16_](https://twitter.com/Shashank_16_)
 
 ---
+### 📌 Featured Repositories
+💡 **Code Smart - Chrome Extension** [🔗](https://github.com/Shanky-21/Code-Smart)
 
-***Thankyou For visiting My Profile !!***
+📊 **Data Visualization** [🔗](https://github.com/Shanky-21/Data_visualization)
 
-<!--
-**Shanky-21/Shanky-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 **Hands-on Machine Learning** [🔗](https://github.com/Shanky-21/Hands-on-machine-learning)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***Thank you for visiting my profile! Feel free to connect and collaborate.*** 🚀
+
