@@ -1,36 +1,42 @@
 ### Hi there, I'm Shashank Dwivedi 👋
 
 [![Website](https://img.shields.io/badge/Website-CodeSmart.in-blue?style=for-the-badge)](https://codesmart.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-dwivedi-623a23172/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Shashank_16_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FShanky-21&screen_name=Shashank_16_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashankdcode/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Shashank_16_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Shashank_16_)
 
-I'm a passionate **Software Engineer** and the creator of **Code Smart**, a Chrome extension that enhances coding efficiency by providing hints, solutions, and analysis directly while you code. My expertise lies in:
-- **React & TypeScript**
-- **Chrome Extensions Development**
-- **Python & Flask**
-- **Machine Learning & NLP**
-- **PostgreSQL & Firebase**
-- **Webpack, Tailwind CSS**
+I'm a **Software Engineer** at **SmartReach.io**, specializing in **React, TypeScript, Python, Flask, Scala, and Chrome Extensions**. I also built **Code Smart**, a Chrome extension providing **real-time coding assistance** with AI-powered hints, solutions, and analysis.
 
 ---
 
 ![Shashank Dwivedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shanky-21&show_icons=true&theme=algolia)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Shanky-21&theme=algolia)
 
-### 🚀 What I'm Working On
-- **Building and scaling Code Smart** - A browser extension for improving coding efficiency
-- **Developing a credit-based system for premium features in Code Smart**
-- **Optimizing Chrome extension performance and integrating new features**
-- **Scraping coding platforms like LeetCode, GFG, CodeChef for insights**
+### 🚀 Experience
+#### **Software Engineer at SmartReach.io**
+- Integrated **Maildoso API** to accelerate email outreach **10x**.
+- Developed **multi-channel drip campaigns**, optimizing engagement.
+- Optimized **PostgreSQL queries**, reducing execution time **by 70%**.
+- Built **call collaboration features** (listen, barge-in, whisper), improving efficiency **by 40%**.
 
-### 🌱 Learning & Interests
-- Advanced **React & TypeScript patterns**
-- Scaling **Chrome extensions** for thousands of users
-- **Performance optimizations** in Webpack & React
-- **AI-driven coding assistance** using NLP
+### 🌱 Tech Stack
+- **Frontend:** React, TypeScript, Redux, Tailwind CSS
+- **Backend:** Python, Flask, Scala, PostgreSQL
+- **Other:** CI/CD, RabbitMQ, Cloudflare, Chrome Extensions, OpenAI API
 
-### 📫 How to Reach Me
-- **Email:** [shashankdwivedi6386@gmail.com](mailto:shashankdwivedi6386@gmail.com)
-- **LinkedIn:** [@shashank-dwivedi](https://www.linkedin.com/in/shashank-dwivedi-623a23172/)
+### 🔥 CodeSmart.in
+- Built a **Chrome extension** using **GPT-4 & Gemini API** to enhance coding on **LeetCode**.
+- **React + TypeScript + Tailwind CSS** for a smooth UI.
+- **Firebase authentication**, securing access for a growing user base.
+- **Razorpay integration** for seamless payments.
+
+### 📌 Open Source Contributions
+- **Total Pull Requests:** ![PR Count](https://img.shields.io/github/issues-pr/Shanky-21?style=for-the-badge)
+- **Total Commits:** ![Commit Count](https://img.shields.io/github/commit-activity/y/Shanky-21?style=for-the-badge)
+- **Total Repositories:** ![Repo Count](https://img.shields.io/github/repositories/Shanky-21?style=for-the-badge)
+
+### 📫 Contact
+- **Email:** [shashankdwivedi9648@gmail.com](mailto:shashankdwivedi9648@gmail.com)
+- **LinkedIn:** [@shashankdcode](https://www.linkedin.com/in/shashankdcode/)
 - **Twitter:** [@Shashank_16_](https://twitter.com/Shashank_16_)
 
 ---
@@ -43,5 +49,5 @@ I'm a passionate **Software Engineer** and the creator of **Code Smart**, a Chro
 
 ---
 
-***Thank you for visiting my profile! Feel free to connect and collaborate.*** 🚀
+***Thanks for visiting! Let's connect and collaborate.*** 🚀
 
