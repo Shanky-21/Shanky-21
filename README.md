@@ -37,7 +37,7 @@ I'm a **Software Engineer** at **SmartReach.io**, specializing in **React, TypeS
 ### 📫 Contact
 - **Email:** [shashankdwivedi9648@gmail.com](mailto:shashankdwivedi9648@gmail.com)
 - **LinkedIn:** [@shashankdcode](https://www.linkedin.com/in/shashankdcode/)
-- **Twitter:** [@Shashank_16_](https://twitter.com/Shashank_16_)
+- **Twitter:** [@Shashank_16_](https://twitter.com/ShashankCode)
 
 ---
 ### 📌 Featured Repositories
